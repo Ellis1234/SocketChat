@@ -1,1 +1,1 @@
-# SocketChat
+Android聊天室软件，基于Socket技术
